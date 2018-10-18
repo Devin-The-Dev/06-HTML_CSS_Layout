@@ -1,0 +1,29 @@
+body {
+    background-color: bisque;
+}
+
+.left {
+    display: block;
+    position: relative;
+    width: 50%;
+    float: left;
+}
+
+.left img {
+    width: 200px;
+    display: block;
+    position: relative;
+    width: 50%;
+}
+
+.left p {
+    width: 50%;
+    position: relative;
+}
+
+.right {
+    display: block;
+    position: relative;
+    width: 50%;
+    float: right;
+}
